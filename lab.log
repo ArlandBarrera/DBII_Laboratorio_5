@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.13)  12 NOV 2024 20:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.13)  12 NOV 2024 20:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -755,7 +755,7 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `lab.out' has not changed.
-(rerunfilecheck)             Checksum: 5E92489808F357A85C73B794F6916EF1;1145.
+(rerunfilecheck)             Checksum: 9C71DF22B5FC601B1E0DE8E205BCCFFF;1145.
  ) 
 Here is how much of TeX's memory you used:
  21073 strings out of 474329
@@ -766,7 +766,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  83i,7n,93p,1252b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on lab.pdf (12 pages, 748061 bytes).
+Output written on lab.pdf (12 pages, 748314 bytes).
 PDF statistics:
  163 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
